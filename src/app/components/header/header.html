@@ -1,0 +1,17 @@
+<header>
+  <nav [class.open]="menuOpen">
+      <button class="menu-btn" (click)="toggleMenu()">
+          <span *ngIf="!menuOpen">|||</span>
+          <span *ngIf="menuOpen">X</span>
+      </button>
+
+      <ul>
+          <li><span routerLink="/">{{ title() }}</span></li>
+          <li><span routerLink="/videotechnik">{{ videotechnik() }}</span></li>
+          <li><span routerLink="/einbruchschutz">{{ einbruchschutz() }}</span></li>
+          <li><span routerLink="/smarthome">{{ smart() }}</span></li>
+          <li><span routerLink="/markerlight">{{ markerlight() }}</span></li>
+          <li><span routerLink="/docklight">{{ docklight() }}</span></li>
+      </ul>
+  </nav>
+</header>
