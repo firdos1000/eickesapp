@@ -1,0 +1,1 @@
+import{Ja as o,Ka as a,Na as n,xa as m}from"./chunk-SECHSOMZ.js";var s=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=m({type:t,selectors:[["app-smarthome"]],decls:2,vars:0,template:function(e,i){e&1&&(o(0,"p"),n(1,"smarthome works!"),a())},encapsulation:2})};export{s as Smarthome};

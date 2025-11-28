@@ -1,0 +1,1 @@
+import{Ja as c,Ka as i,Na as s,xa as n}from"./chunk-SECHSOMZ.js";var o=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=n({type:t,selectors:[["app-einbruchschutz"]],decls:2,vars:0,template:function(e,u){e&1&&(c(0,"p"),s(1,"einbruchschutz works!"),i())},encapsulation:2})};export{o as Einbruchschutz};
