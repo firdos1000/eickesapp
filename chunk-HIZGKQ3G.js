@@ -1,1 +1,0 @@
-import{Ja as s,Ka as n,Na as a,xa as t}from"./chunk-SECHSOMZ.js";var i=class e{static \u0275fac=function(o){return new(o||e)};static \u0275cmp=t({type:e,selectors:[["app-todos"]],decls:2,vars:0,template:function(o,p){o&1&&(s(0,"p"),a(1,"todos works!"),n())},encapsulation:2})};export{i as Todos};

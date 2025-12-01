@@ -1,1 +1,0 @@
-import{Ja as i,Ka as n,Na as c,xa as o}from"./chunk-SECHSOMZ.js";var l=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=o({type:e,selectors:[["app-docklight"]],decls:2,vars:0,template:function(t,s){t&1&&(i(0,"p"),c(1,"docklight works!"),n())},encapsulation:2})};export{l as Docklight};

@@ -1,1 +1,0 @@
-import{Ja as a,Ka as i,Na as n,xa as r}from"./chunk-SECHSOMZ.js";var o=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=r({type:t,selectors:[["app-markerlight"]],decls:2,vars:0,template:function(e,m){e&1&&(a(0,"p"),n(1,"markerlight works!"),i())},encapsulation:2})};export{o as Markerlight};
