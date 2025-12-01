@@ -1,0 +1,1 @@
+import{Ja as n,Ka as o,Na as c,xa as i}from"./chunk-SECHSOMZ.js";var a=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=i({type:t,selectors:[["app-videotechnik"]],decls:2,vars:0,template:function(e,d){e&1&&(n(0,"p"),c(1,"videotechnik works!"),o())},encapsulation:2})};export{a as Videotechnik};
